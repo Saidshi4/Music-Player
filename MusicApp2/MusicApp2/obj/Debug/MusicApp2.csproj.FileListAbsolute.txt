@@ -1,0 +1,17 @@
+C:\Users\User\OneDrive - Bureau on ICT for Education, Ministry of Education\Desktop\FFC#Nicat\MusicApp2\MusicApp2\bin\Debug\MusicApp2.exe.config
+C:\Users\User\OneDrive - Bureau on ICT for Education, Ministry of Education\Desktop\FFC#Nicat\MusicApp2\MusicApp2\bin\Debug\MusicApp2.exe
+C:\Users\User\OneDrive - Bureau on ICT for Education, Ministry of Education\Desktop\FFC#Nicat\MusicApp2\MusicApp2\bin\Debug\MusicApp2.pdb
+C:\Users\User\OneDrive - Bureau on ICT for Education, Ministry of Education\Desktop\FFC#Nicat\MusicApp2\MusicApp2\obj\Debug\MusicApp2.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - Bureau on ICT for Education, Ministry of Education\Desktop\FFC#Nicat\MusicApp2\MusicApp2\obj\Debug\MusicApp2.Properties.Resources.resources
+C:\Users\User\OneDrive - Bureau on ICT for Education, Ministry of Education\Desktop\FFC#Nicat\MusicApp2\MusicApp2\obj\Debug\MusicApp2.csproj.GenerateResource.cache
+C:\Users\User\OneDrive - Bureau on ICT for Education, Ministry of Education\Desktop\FFC#Nicat\MusicApp2\MusicApp2\obj\Debug\MusicApp2.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - Bureau on ICT for Education, Ministry of Education\Desktop\FFC#Nicat\MusicApp2\MusicApp2\obj\Debug\MusicApp2.exe
+C:\Users\User\OneDrive - Bureau on ICT for Education, Ministry of Education\Desktop\FFC#Nicat\MusicApp2\MusicApp2\obj\Debug\MusicApp2.pdb
+C:\Users\User\OneDrive - Bureau on ICT for Education, Ministry of Education\Desktop\FFC#Nicat\MusicApp2\MusicApp2\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\OneDrive - Bureau on ICT for Education, Ministry of Education\Desktop\FFC#Nicat\MusicApp2\MusicApp2\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\OneDrive - Bureau on ICT for Education, Ministry of Education\Desktop\FFC#Nicat\MusicApp2\MusicApp2\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\OneDrive - Bureau on ICT for Education, Ministry of Education\Desktop\FFC#Nicat\MusicApp2\MusicApp2\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\OneDrive - Bureau on ICT for Education, Ministry of Education\Desktop\FFC#Nicat\MusicApp2\MusicApp2\obj\Debug\MusicApp2.csproj.ResolveComReference.cache
+C:\Users\User\OneDrive - Bureau on ICT for Education, Ministry of Education\Desktop\FFC#Nicat\MusicApp2\MusicApp2\obj\Debug\MusicApp2.Player.resources
+C:\Users\User\OneDrive - Bureau on ICT for Education, Ministry of Education\Desktop\FFC#Nicat\MusicApp2\MusicApp2\obj\Debug\MusicApp2.Logincs.resources
+C:\Users\User\OneDrive - Bureau on ICT for Education, Ministry of Education\Desktop\FFC#Nicat\MusicApp2\MusicApp2\obj\Debug\MusicApp2.Register.resources
